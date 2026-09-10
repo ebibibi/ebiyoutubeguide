@@ -29,7 +29,7 @@
     "eslint-plugin-react-refresh": "^0.4.4",
     "typescript": "^5.2.2",
     "vite": "^8.2.1",
-    "vitest": "^4.1.10",
+    "vitest": "^4.1.11",
     "@testing-library/react": "^13.4.0",
     "@testing-library/jest-dom": "^6.1.4"
   }
